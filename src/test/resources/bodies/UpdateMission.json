@@ -1,0 +1,13 @@
+{
+  "nameMission": "Designer web",
+  "startingDateMission": "01/01/2024",
+  "endingDateMission": "30/06/2024",
+  "collaboratorId": 10,
+  "customerId": 2,
+  "customerContactLastname": "Jane",
+  "customerContactFirstname": "Doe",
+  "customerContactEmail": "jane.doe@gmail.com",
+  "customerContactPhone": "8808809978",
+  "missionDescription": "designer web mission",
+  "tauxJournalier": 650
+}
